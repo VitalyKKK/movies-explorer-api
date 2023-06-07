@@ -1,7 +1,7 @@
 const allowedCors = [
-  'https://mesto.vitaly.nomoredomains.rocks',
-  'http://mesto.vitaly.nomoredomains.rocks',
-  'http://localhost:3001',
+  'https://vitalykkk-movies.nomoredomains.rocks',
+  'http://vitalykkk-movies.nomoredomains.rocks',
+  'https://localhost:3000',
   'http://localhost:3000',
 ];
 
